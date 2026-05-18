@@ -1,4 +1,4 @@
-# Practical 1.2 — Installing Parrot Security OS in VirtualBox
+# Practical 2 — Installing Parrot Security OS in VirtualBox
 
 ## Objective
 
