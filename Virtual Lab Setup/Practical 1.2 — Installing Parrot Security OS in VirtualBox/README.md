@@ -182,12 +182,21 @@ Put sanitized screenshots in `screenshots/` and reference them here:
 
 ```
 screenshots/
-├── 01-parrot-download-page.png
-├── 02-virtualbox-import-appliance.png
-├── 03-appliance-settings-review.png
-├── 04-first-boot-login.png
-├── 05-post-update-terminal.png
-└── 06-snapshot-taken.png
+├── 01-import-virtual-appliance-settings.png 
+├── 02-parrot-license-agreement.png 
+├── 03-importing-parrot-security-vm.png 
+├── 04-parrot-vm-imported-successfully.png 
+├── 05-parrot-general-settings.png 
+├── 06-parrot-system-memory-settings.png 
+├── 07-parrot-system-boot-order-settings.png 
+├── 08-parrot-network-nat-settings.png 
+├── 09-parrot-bridged-adapter-settings.png 
+├── 10-promiscuous-mode-allow-all.png 
+├── 11-network-interface-selection.png 
+├── 12-parrot-network-final-settings.png 
+├── 13-starting-parrot-security-vm.png 
+└── 14-parrot-security-desktop-running.png
+
 ```
 
 Blur or crop your real username, hostname, and IP address before committing.
