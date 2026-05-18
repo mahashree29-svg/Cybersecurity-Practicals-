@@ -107,11 +107,19 @@ Place sanitized screenshots in `screenshots/` and reference them here:
 
 ```
 screenshots/
-├── 01-download-page.png
-├── 02-installer-welcome.png
-├── 03-network-warning.png
-├── 04-extension-pack-install.png
-└── 05-verification-about.png
+├── 01-virtualbox-download-page.png
+├── 02-virtualbox-custom-setup.png
+├── 03-network-interface-warning.png
+├── 04-virtualbox-main-dashboard.png
+├── 05-parrot-vm-general-settings.png
+├── 06-extension-pack-install-prompt.png
+├── 07-extension-pack-installing.png
+├── 08-extension-pack-installed-success.png
+├── 09-network-bridged-adapter-settings.png
+├── 10-promiscuous-mode-allow-all.png
+├── 11-bridged-adapter-interface-selection.png
+├── 12-parrot-vm-ready-to-start.png
+└── 13-parrot-security-desktop-running.png 
 ```
 
 ## What I Learned
